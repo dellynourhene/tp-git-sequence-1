@@ -1,4 +1,3 @@
-# Bienvenue
+## Mise à jour
 
-Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction afficherBienvenue().
-
+Documentation du changement de la fonction afficherBienvenue().
