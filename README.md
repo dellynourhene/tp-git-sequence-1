@@ -10,3 +10,8 @@ void afficherBienvenue(std::string message = "Bienvenue le monde !", int nbAffic
 La fonction afficherBienvenue() accepte maintenant :
 - un message (string)
 - un nombre d'affichages (int, 1 par défaut)
+## Version 2.0
+
+Le programme accepte :
+1. Message
+2. Nombre d'affichages
